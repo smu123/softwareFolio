@@ -47,7 +47,7 @@
 ***
 ### 프로젝트 참여목록
 
-- c언어를 이용한 up and down 프로젝트 : up and down 프로젝트에 참여하여 c 언어를 이용한 숫자 게임을 개발함. [pptx](https://github.com/smu123/softwareFolio/files/6737490/UP.AND.DOWN.5.24.2.pptx)
+- __c언어를 이용한 up and down 프로젝트 : up and down 프로젝트에 참여하여 c 언어를 이용한 숫자 게임을 개발함. [pptx](https://github.com/smu123/softwareFolio/files/6737490/UP.AND.DOWN.5.24.2.pptx)__
 
 ***
 ### 내가 잘 다루는 SW Language을 나열
