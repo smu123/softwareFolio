@@ -4,11 +4,11 @@
 ***
 ### 목차
 - [나의 대한 간략한 소개](https://github.com/smu123/softwareFolio/blob/main/README.md#%EB%82%98%EC%97%90%EB%8C%80%ED%95%9C-%EA%B0%84%EB%9E%B5%ED%95%9C-%EC%86%8C%EA%B0%9C)
-- [교육]
-- 내가 가장 자주가는 사이트
-- 나의 장점
-- 프로젝트 참여 목록
-- 내가 잘 다루는 SW Language을 나열
+- [교육](https://github.com/smu123/softwareFolio/blob/main/README.md#%EA%B5%90%EC%9C%A1)
+- [내가 가장 자주가는 사이트]
+- [나의 장점]
+- [프로젝트 참여 목록]
+- [내가 잘 다루는 SW Language을 나열]
 
 ***
 ### 나에대한 간략한 소개
