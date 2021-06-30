@@ -3,7 +3,7 @@
 
 ***
 ### 목차
-- 나의 대한 간략한 소개
+- [나의 대한 간략한 소개](https://github.com/smu123/softwareFolio/blob/main/README.md#%EB%82%98%EC%97%90%EB%8C%80%ED%95%9C-%EA%B0%84%EB%9E%B5%ED%95%9C-%EC%86%8C%EA%B0%9C)
 - 교육
 - 내가 가장 자주가는 사이트
 - 나의 장점
